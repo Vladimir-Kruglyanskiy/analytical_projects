@@ -1,6 +1,6 @@
 ## Структура репозитория
 
-### `darkwood`
+### [`darkwood`](https://github.com/Vladimir-Kruglyanskiy/analytical_projects/tree/main/darkwood)
 
 **Проект:** Секреты Тёмнолесья (Анализ внутриигровых покупок)
 
