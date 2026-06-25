@@ -36,7 +36,8 @@
 - Общая доля платящих игроков - **17,7%**
 - В разрезе рас: от 17% до 19,4%
 - Лидеры: Демоны (19,4%), Антилидеры: Эльфы (17%)
-<img width="805" height="261" alt="image" src="https://github.com/user-attachments/assets/eeaa4b04-5e08-4117-a6ba-b130830314a8" />
+<img width="805" height="261" alt="image" src="https://github.com/user-attachments/assets/fc43b545-b0ac-4f80-9046-96876acaf912" />
+
 
 ### 2. Анализ покупок
 - Всего совершено **1 307 678 покупок**
