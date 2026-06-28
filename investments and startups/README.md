@@ -67,4 +67,4 @@
 
 ## Файлы проекта
 
-- `investments.ipynb` — Jupyter Notebook с полным анализом
+- `investments.ipynb` - Jupyter Notebook с полным анализом
