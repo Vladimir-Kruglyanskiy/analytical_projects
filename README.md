@@ -30,7 +30,7 @@
 
 ---
 
-### [`investments and startups/`](https://github.com/Vladimir-Kruglyanskiy/analytical_projects/tree/main/investments%20and%20startups)
+### [`investments and startups`](https://github.com/Vladimir-Kruglyanskiy/analytical_projects/tree/main/investments%20and%20startups)
 
 **Проект:** Исследование рынка венчурных инвестиций
 
