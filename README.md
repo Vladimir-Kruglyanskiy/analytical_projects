@@ -28,6 +28,8 @@
 | `estate market analysis.sql` | SQL-запросы для анализа: сегментация по времени активности, сезонность, анализ населённых пунктов Ленобласти |
 | `README.md` | Детальное описание проекта, ключевые выводы и рекомендации |
 
+---
+
 ### [`investments and startups/`](https://github.com/Vladimir-Kruglyanskiy/analytical_projects/tree/main/investments%20and%20startups)
 
 **Проект:** Исследование рынка венчурных инвестиций
