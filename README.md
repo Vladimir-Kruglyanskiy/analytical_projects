@@ -1,6 +1,6 @@
 ## Структура репозитория
 
-▶### [`darkwood`](https://github.com/Vladimir-Kruglyanskiy/analytical_projects/tree/main/darkwood)
+🔷### [`darkwood`](https://github.com/Vladimir-Kruglyanskiy/analytical_projects/tree/main/darkwood)
 
 **Проект:** Онлайн-игра (Анализ внутриигровых покупок)
 
