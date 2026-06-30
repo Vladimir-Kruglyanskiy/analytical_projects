@@ -1,6 +1,6 @@
 ## Структура репозитория
 
-### [`darkwood`](https://github.com/Vladimir-Kruglyanskiy/analytical_projects/tree/main/darkwood)
+### 📁 [`darkwood`](https://github.com/Vladimir-Kruglyanskiy/analytical_projects/tree/main/darkwood)
 
 **Проект:** Онлайн-игра (Анализ внутриигровых покупок)
 
@@ -17,7 +17,7 @@
 
 ---
 
-### [`real_estate`](https://github.com/Vladimir-Kruglyanskiy/analytical_projects/tree/main/estate_market)
+### 📁 [`real_estate`](https://github.com/Vladimir-Kruglyanskiy/analytical_projects/tree/main/estate_market)
 
 **Проект:** Рынок недвижимости Санкт-Петербурга и Ленинградской области
 
@@ -34,7 +34,7 @@
 
 ---
 
-### [`investments and startups`](https://github.com/Vladimir-Kruglyanskiy/analytical_projects/tree/main/investments%20and%20startups)
+### 📁 [`investments and startups`](https://github.com/Vladimir-Kruglyanskiy/analytical_projects/tree/main/investments%20and%20startups)
 
 **Проект:** Исследование рынка венчурных инвестиций
 
@@ -50,7 +50,7 @@
 | `README.md` | Детальное описание проекта, ключевые выводы и рекомендации |
 
 ---
-### [`marketplace`](https://github.com/Vladimir-Kruglyanskiy/analytical_projects/tree/main/marketplace)
+### 📁 [`marketplace`](https://github.com/Vladimir-Kruglyanskiy/analytical_projects/tree/main/marketplace)
 
 **Проект:** Анализ маркетплейса
 
