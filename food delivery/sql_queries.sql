@@ -10,7 +10,6 @@ GROUP BY log_date
 ORDER BY log_date;
 
 
-
 -- Conversion Rate
 SELECT log_date,
        COUNT(DISTINCT user_id) AS DAU
