@@ -65,7 +65,7 @@
 | `marketplace.ipynb` | Jupyter Notebook с полным анализом: загрузка и предобработка данных, исследовательский анализ, визуализации, выводы, A/B-тестирование |
 | `README.md` | Детальное описание проекта, ключевые выводы и рекомендации |
 
-### 📁 [`food delivery`](https://github.com/Vladimir-Kruglyanskiy/analytical_projects/tree/main/delivery_dashboard)
+### 📁 [`food delivery`](https://github.com/Vladimir-Kruglyanskiy/analytical_projects/tree/main/food%20delivery)
 
 **Проект:** Дашборд «Ключевые бизнес-метрики в Саранске»
 
