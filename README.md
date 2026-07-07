@@ -77,7 +77,7 @@
 
 | Файл | Описание |
 |------|----------|
-| [`dashboard`](https://github.com/Vladimir-Kruglyanskiy/analytical_projects/tree/main/food%20delivery/dashboard) | Дашборд «Ключевые бизнес-метрики в Саранске»: SQL-запросы, визуализации в Yandex DataLens |
+| [`dashboard`](https://github.com/Vladimir-Kruglyanskiy/analytical_projects/tree/main/food%20delivery) | Дашборд «Ключевые бизнес-метрики в Саранске»: SQL-запросы, визуализации в Yandex DataLens |
 | [`insights`](https://github.com/Vladimir-Kruglyanskiy/analytical_projects/tree/main/food%20delivery/insights) | Поиск инсайтов и точек роста: воронки, RFM-сегментация, кластеризация ресторанов |
 | `README.md` | Общее описание проектов по сервису доставки |
 
