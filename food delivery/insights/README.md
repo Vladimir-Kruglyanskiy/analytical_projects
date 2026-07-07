@@ -38,7 +38,7 @@
 
 - **Python** (pandas, matplotlib, seaborn, scikit-learn)
 - **Jupyter Notebook**
-- **Воронкочный анализ**
+- **Анализ воронки**
 - **RFM-сегментация**
 - **Кластеризация K-Means**
 
