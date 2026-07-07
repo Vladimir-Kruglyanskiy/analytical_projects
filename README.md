@@ -67,23 +67,24 @@
 
 ### 📁 [`food delivery`](https://github.com/Vladimir-Kruglyanskiy/analytical_projects/tree/main/food%20delivery)
 
-**Проект:** Дашборд «Ключевые бизнес-метрики в Саранске»
+**Проект:** Аналитика для сервиса доставки еды
 
-**Инструменты:** SQL, Yandex DataLens
+**Инструменты:** SQL, Python (pandas, matplotlib, seaborn, scikit-learn), Yandex DataLens, Jupyter Notebook
 
-**Краткое описание:** Разработка дашборда с ключевыми бизнес-метриками для сервиса доставки еды: DAU, конверсия, средний чек, LTV и удержание пользователей. Дашборд построен для города Саранск за период май-июнь 2021 года.
+**Краткое описание:** Комплексный анализ сервиса доставки еды: разработка дашборда с ключевыми бизнес-метриками, исследование пользовательского поведения через воронки, RFM-сегментация пользователей и кластеризация ресторанов для поиска точек роста.
 
 **Содержимое папки:**
 
 | Файл | Описание |
 |------|----------|
-| `sql_queries.sql` | SQL-запросы для каждой метрики |
-| `README.md` | Детальное описание проекта, ключевые выводы и рекомендации |
+| [`dashboard`](https://github.com/Vladimir-Kruglyanskiy/analytical_projects/tree/main/food%20delivery/dashboard) | Дашборд «Ключевые бизнес-метрики в Саранске»: SQL-запросы, визуализации в Yandex DataLens |
+| [`insights`](https://github.com/Vladimir-Kruglyanskiy/analytical_projects/tree/main/food%20delivery/insights) | Поиск инсайтов и точек роста: воронки, RFM-сегментация, кластеризация ресторанов |
+| `README.md` | Общее описание проектов по сервису доставки |
 
 
 ### 📁 [`app`](https://github.com/Vladimir-Kruglyanskiy/analytical_projects/tree/main/app)
 
-**Проект:** Анализ юнит-экономики развлекательного приложения Procrastinate Pro+
+**Проект:** Анализ юнит-экономики развлекательного приложения
 
 **Инструменты:** Python (pandas, matplotlib, seaborn), Jupyter Notebook
 
