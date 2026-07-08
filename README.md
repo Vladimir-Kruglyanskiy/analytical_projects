@@ -65,6 +65,8 @@
 | `marketplace.ipynb` | Jupyter Notebook с полным анализом: загрузка и предобработка данных, исследовательский анализ, визуализации, выводы, A/B-тестирование |
 | `README.md` | Детальное описание проекта, ключевые выводы и рекомендации |
 
+---
+
 ### 📁 [`food delivery`](https://github.com/Vladimir-Kruglyanskiy/analytical_projects/tree/main/food%20delivery)
 
 **Проект:** Аналитика для сервиса доставки еды
@@ -81,6 +83,7 @@
 | [`insights`](https://github.com/Vladimir-Kruglyanskiy/analytical_projects/tree/main/food%20delivery/insights) | Поиск инсайтов и точек роста: воронки, RFM-сегментация, кластеризация ресторанов |
 | `README.md` | Общее описание проектов по сервису доставки |
 
+---
 
 ### 📁 [`app`](https://github.com/Vladimir-Kruglyanskiy/analytical_projects/tree/main/app)
 
@@ -95,6 +98,23 @@
 | Файл | Описание |
 |------|----------|
 | `app and unit economics.ipynb` | Jupyter Notebook с полным анализом: загрузка и предобработка данных, когортный анализ, расчет CAC, LTV, ROI, анализ каналов, период окупаемости |
+| `README.md` | Детальное описание проекта, ключевые выводы и рекомендации |
+
+---
+
+### 📁 [`sollmafin`](https://github.com/Vladimir-Kruglyanskiy/analytical_projects/tree/main/SollmaFin)
+
+**Проект:** Анализ A/B-теста: влияние нового онбординга в SollmaFin
+
+**Инструменты:** Python (pandas, numpy, matplotlib, scipy, statsmodels), Jupyter Notebook
+
+**Краткое описание:** Оценка эффективности обновленного онбординга в трейдинговом приложении. Проверка бизнес-гипотез через A/B-тест, анализ исторических данных, исследование влияния на поведение пользователей.
+
+**Содержимое папки:**
+
+| Файл | Описание |
+|------|----------|
+| `sollmafin_analysis.ipynb` | Jupyter Notebook с полным анализом: исторические данные, A/B-тест, проверка гипотез, бутстрап-анализ, выводы |
 | `README.md` | Детальное описание проекта, ключевые выводы и рекомендации |
 
 ---
